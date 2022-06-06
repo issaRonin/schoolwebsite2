@@ -1,0 +1,31 @@
+body {
+    background-color: orange;
+    text-align: center;
+}
+#menu {
+    position: sticky;
+}
+.travel_mainDiv 
+{
+    border: 1px solid lightgray;
+}
+.travel_mainDiv2 
+{
+    border: 1px solid lightgray;
+}
+.travel_mainDiv img
+{
+    width: 100%;
+}
+.travel_mainDiv2 img
+{
+    width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p 
+{
+    margin: 20px;
+}
+.travel_mainDiv2 h5, .travel_mainDiv2 p 
+{
+    margin: 20px;
+}
